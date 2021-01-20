@@ -340,7 +340,7 @@ Laravelを動かす為の記述をNginxの設定ファイルに書いていき�
 ### Laravelの認証機能実装
 * [Qiita:Laravel6 ログイン機能を実装する](https://qiita.com/ucan-lab/items/bd0d6f6449602072cb87)
 
-### VirtualBox
+### VirtualBoxのインストール
 * [情シスハック:VirtualBoxの導入からOSインストールまでのチュートリアル解説](http://success.tracpath.com/blog/2013/10/15/virtualbox%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%8B%E3%82%89os%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%BE%E3%81%A7%E3%81%AE%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2/)
 * [みんなの受験期:VirtualBoxとは？](http://jukenki.com/contents/other/virtualbox/about-virtualbox.html)
 * [エンジニアの入り口:【初心者でもわかる】VirtualBoxインストール方法を詳しく！](https://eng-entrance.com/virtualbox-install)
